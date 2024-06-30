@@ -114,7 +114,7 @@ http://example.com/stream/zeenews
 #EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="logo_url", Zee Cinema
 http://example.com/stream/zeecinema
 
-#EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist/main/zee-bangla-in.png", Zee Bangla
+#EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="https://en.m.wikipedia.org/wiki/File:Zee_Bangla_logo.png", Zee Bangla
 http://example.com/stream/zeebangla
 
 #EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="logo_url", Zee Bangla Cinema
