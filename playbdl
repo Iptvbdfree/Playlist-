@@ -5,7 +5,8 @@ http://xtv.ooo:8080/26nest26/445566/245925
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/IPTVBDFREE/MAIN/ntv_bd_europe.png", NTV
 http://example.com/stream/ntv
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://github.com/Iptvbdfree/IPTVBDFREE/blob/MAIN/btv-world-bd.png", RTV
+#EXTINF:-1 group-title="NEWS" 
+tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-sports-1-in.png", RTV
 http://example.com/stream/rtv
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Channel i
