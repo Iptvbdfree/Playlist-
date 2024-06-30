@@ -238,49 +238,49 @@ http://example.com/stream/foxsports
 
 
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel1
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel2
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel3
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel4
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel5
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel6
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel7
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel8
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel9
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel10
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel11
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel12
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel13
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel14
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="logo_url", 24/7
+#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel15
 
 
