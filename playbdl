@@ -7,7 +7,7 @@ http://example.com/stream/ntv
 
 #EXTINF:-1, RTV
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Channel i
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png", Channel i
 http://example.com/stream/channeli
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF", ATN News
