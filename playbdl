@@ -289,5 +289,34 @@ http://example.com/stream/247_channel15
 
 
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", 9XM
+http://example.com/stream/9xm
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", B4U Music
+http://example.com/stream/b4umusic
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", Zing
+http://example.com/stream/zing
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", Sony Mix
+http://example.com/stream/sonymix
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", Mastiii
+http://example.com/stream/mastiii
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", Channel V
+http://example.com/stream/channelv
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", 1 Music Channel
+http://example.com/stream/1musicchannel
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", 24/7 Careless Whisper
+http://example.com/stream/carelesswhisper
+
+
+
+
+
+
 
 
