@@ -1,1 +1,28 @@
-hhyyy
+#EXTM3U
+
+#EXTINF:-1 group-title="News" tvg-logo="https://github.com/Iptvbdfree/IPTVBDFREE/blob/MAIN/btv-world-bd.png",BTV
+http://example.com/stream/btv
+
+#EXTINF:-1 group-title="News" tvg-logo="https://example.com/logo/somoy.png",SOMOY TV
+http://example.com/stream/somoy
+
+#EXTINF:-1 group-title="News" tvg-logo="https://example.com/logo/independent.png",INDEPENDENT TV
+http://example.com/stream/independent
+
+#EXTINF:-1 group-title="News" tvg-logo="https://example.com/logo/atnnews.png",ATN NEWS
+http://example.com/stream/atnnews
+
+#EXTINF:-1 group-title="News" tvg-logo="https://example.com/logo/atnbangla.png",ATN BANGLA
+http://example.com/stream/atnbangla
+
+#EXTINF:-1 group-title="News" tvg-logo="https://example.com/logo/channeli.png",CHANNEL I
+http://example.com/stream/channeli
+
+#EXTINF:-1 group-title="News" tvg-logo="https://example.com/logo/channel24.png",CHANNEL 24
+http://example.com/stream/channel24
+
+#EXTINF:-1 group-title="News" tvg-logo="https://example.com/logo/gazitv.png",GAZI TV
+http://example.com/stream/gazitv
+
+#EXTINF:-1 group-title="News" tvg-logo="https://example.com/logo/boishakhi.png",BOISHAKHI TV
+http://example.com/stream/boishakhi
