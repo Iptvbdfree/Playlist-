@@ -154,3 +154,25 @@ http://example.com/stream/duronto
 
 
 
+#EXTINF:-1 group-title="Infotainment" tvg-logo="logo_url", Discovery Channel
+http://example.com/stream/discovery
+
+#EXTINF:-1 group-title="Infotainment" tvg-logo="logo_url", National Geographic
+http://example.com/stream/natgeo
+
+#EXTINF:-1 group-title="Infotainment" tvg-logo="logo_url", History Channel
+http://example.com/stream/history
+
+#EXTINF:-1 group-title="Infotainment" tvg-logo="logo_url", Animal Planet
+http://example.com/stream/animalplanet
+
+#EXTINF:-1 group-title="Infotainment" tvg-logo="logo_url", Travel XP
+http://example.com/stream/travelxp
+
+
+
+
+
+
+
+
