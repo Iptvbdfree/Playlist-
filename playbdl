@@ -117,7 +117,7 @@ http://example.com/stream/zeecinema
 #EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png", Zee Bangla
 http://example.com/stream/zeebangla
 
-#EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="logo_url", Zee Bangla Cinema
+#EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg", Zee Bangla Cinema
 http://example.com/stream/zeebanglacinema
 
 
