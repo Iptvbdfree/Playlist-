@@ -210,4 +210,34 @@ http://example.com/stream/tsports
 
 
 
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", ESPN
+http://example.com/stream/espn
+
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", Star Sports Football
+http://example.com/stream/starsportsfootball
+
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", Sony Ten 2
+http://example.com/stream/sonyten2
+
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", Sony Six
+http://example.com/stream/sonysix
+
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", Sky Sports Football
+http://example.com/stream/skysportsfootball
+
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", BeIN Sports
+http://example.com/stream/beinsports
+
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", BT Sport
+http://example.com/stream/btsport
+
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", Fox Sports
+http://example.com/stream/foxsports
+
+
+
+
+
+
+
 
