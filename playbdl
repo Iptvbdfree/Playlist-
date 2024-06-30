@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Somoy TV
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/IPTVBDFREE/MAIN/somoy_news.png", Somoy TV
 http://xtv.ooo:8080/26nest26/445566/245925
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", NTV
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/IPTVBDFREE/MAIN/ntv_bd_europe.png", NTV
 http://example.com/stream/ntv
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", RTV
