@@ -128,3 +128,29 @@ http://example.com/stream/zeebanglacinema
 
 
 
+
+#EXTINF:-1 group-title="CARTOON" tvg-logo="logo_url", Cartoon Network
+http://example.com/stream/cartoonnetwork
+
+#EXTINF:-1 group-title="CARTOON" tvg-logo="logo_url", Disney Channel
+http://example.com/stream/disney
+
+#EXTINF:-1 group-title="CARTOON" tvg-logo="logo_url", Nickelodeon
+http://example.com/stream/nickelodeon
+
+#EXTINF:-1 group-title="CARTOON" tvg-logo="logo_url", Sony YAY!
+http://example.com/stream/sonyyay
+
+#EXTINF:-1 group-title="CARTOON" tvg-logo="logo_url", Pogo
+http://example.com/stream/pogo
+
+#EXTINF:-1 group-title="CARTOON" tvg-logo="logo_url", Duronto TV
+http://example.com/stream/duronto
+
+
+
+
+
+
+
+
