@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Somoy TV
 http://xtv.ooo:8080/26nest26/445566/245925
 
@@ -54,3 +55,55 @@ http://example.com/stream/gtv
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Banglavision TV
 http://example.com/stream/banglavisiontv
+
+
+
+
+
+
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Jalsha Movies
+http://example.com/stream/starjalshamovies
+
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Jalsha
+http://example.com/stream/starjalsha
+
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Sports Bangla
+http://example.com/stream/starsportsbangla
+
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Plus
+http://example.com/stream/starplus
+
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Bharat
+http://example.com/stream/starbharat
+
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Utsav
+http://example.com/stream/starutsav
+
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Sports 1
+http://example.com/stream/starsports1
+
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Sports 2
+http://example.com/stream/starsports2
+
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Sports 3
+http://example.com/stream/starsports3
+
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Sports Hindi
+http://example.com/stream/starsportshindi
+
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Gold
+http://example.com/stream/stargold
+
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Movies
+http://example.com/stream/starmovies
+
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Asianet (Star Asianet)
+http://example.com/stream/asianet
+
+
+
+
+
+
+
+
