@@ -1,0 +1,56 @@
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Somoy TV
+http://xtv.ooo:8080/26nest26/445566/245925
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", NTV
+http://example.com/stream/ntv
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", RTV
+http://example.com/stream/rtv
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Channel i
+http://example.com/stream/channeli
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF", ATN News
+http://xtv.ooo:8080/26nest26/445566/245905
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Channel 24
+http://example.com/stream/channel24
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Ekattor TV
+http://example.com/stream/ekattortv
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Independent TV
+http://example.com/stream/independenttv
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Jamuna TV
+http://example.com/stream/jamunatv
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", News24
+http://example.com/stream/news24
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC News
+http://xtv.ooo:8080/26nest26/445566/245914
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Desh TV
+http://example.com/stream/deshtv
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Bangla Vision
+http://example.com/stream/banglavision
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Maasranga TV
+http://example.com/stream/maasrangatv
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", My TV
+http://example.com/stream/mytv
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Boishakhi TV
+http://example.com/stream/boishakhitv
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Mohona TV
+http://example.com/stream/mohonatv
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi TV (GTV)
+http://example.com/stream/gtv
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Banglavision TV
+http://example.com/stream/banglavisiontv
