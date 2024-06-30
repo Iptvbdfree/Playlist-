@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="News" tvg-logo="https://github.com/Iptvbdfree/IPTVBDFREE/blob/MAIN/btv-world-bd.png",BTV
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/9xm-in.png",BTV
 http://example.com/stream/btv
 
 #EXTINF:-1 group-title="News" tvg-logo="https://example.com/logo/somoy.png",SOMOY TV
