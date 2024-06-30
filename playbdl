@@ -174,5 +174,40 @@ http://example.com/stream/travelxp
 
 
 
+#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Star Sports 1
+http://example.com/stream/starsports1
+
+#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Star Sports 2
+http://example.com/stream/starsports2
+
+#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Star Sports Hindi
+http://example.com/stream/starsportshindi
+
+#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Sony Ten 1
+http://example.com/stream/sonyten1
+
+#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Sony Six
+http://example.com/stream/sonysix
+
+#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Willow TV
+http://example.com/stream/willowtv
+
+#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", PTV Sports
+http://example.com/stream/ptvsports
+
+#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", SuperSport
+http://example.com/stream/supersport
+
+#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Astro Cricket
+http://example.com/stream/astrocricket
+
+#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", T Sports
+http://example.com/stream/tsports
+
+
+
+
+
+
 
 
