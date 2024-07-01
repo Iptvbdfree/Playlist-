@@ -69,7 +69,7 @@ http://example.com/stream/starjalsha
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Sports Bangla
 http://example.com/stream/starsportsbangla
 
-#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Plus
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Star_plus_%282016%29.png/revision/latest?cb=20190103103526", Star Plus
 http://example.com/stream/starplus
 
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Bharat
@@ -90,10 +90,10 @@ http://example.com/stream/starsports3
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Sports Hindi
 http://example.com/stream/starsportshindi
 
-#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Gold
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/688px-Star_Gold_2020.svg.png", Star Gold
 http://example.com/stream/stargold
 
-#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Movies
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png", Star Movies
 http://example.com/stream/starmovies
 
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Asianet (Star Asianet)
@@ -105,13 +105,13 @@ http://example.com/stream/asianet
 
 
 
-#EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="logo_url", Zee TV
+#EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Zee_TV_Logo_2017.svg/800px-Zee_TV_Logo_2017.svg.png", Zee TV
 http://example.com/stream/zeetv
 
-#EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="logo_url", Zee News
+#EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png", Zee News
 http://example.com/stream/zeenews
 
-#EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="logo_url", Zee Cinema
+#EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png", Zee Cinema
 http://example.com/stream/zeecinema
 
 #EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png", Zee Bangla
@@ -128,22 +128,22 @@ http://example.com/stream/zeebanglacinema
 
 
 
-#EXTINF:-1 group-title="CARTOON" tvg-logo="logo_url", Cartoon Network
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://example.com/stream/cartoonnetwork
 
-#EXTINF:-1 group-title="CARTOON" tvg-logo="logo_url", Disney Channel
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/640px-Disney_Channel_logo.svg.png", Disney Channel
 http://example.com/stream/disney
 
-#EXTINF:-1 group-title="CARTOON" tvg-logo="logo_url", Nickelodeon
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png", Nickelodeon
 http://example.com/stream/nickelodeon
 
-#EXTINF:-1 group-title="CARTOON" tvg-logo="logo_url", Sony YAY!
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png", Sony YAY!
 http://example.com/stream/sonyyay
 
-#EXTINF:-1 group-title="CARTOON" tvg-logo="logo_url", Pogo
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/582px-POGO-logo.svg.png", Pogo
 http://example.com/stream/pogo
 
-#EXTINF:-1 group-title="CARTOON" tvg-logo="logo_url", Duronto TV
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png", Duronto TV
 http://example.com/stream/duronto
 
 
