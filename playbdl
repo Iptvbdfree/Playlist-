@@ -60,6 +60,19 @@ http://example.com/stream/banglavisiontv
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114", Star Jalsha Movies
 http://example.com/stream/starjalshamovies
 
@@ -105,6 +118,20 @@ http://example.com/stream/starmovies
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Zee_TV_Logo_2017.svg/800px-Zee_TV_Logo_2017.svg.png", Zee TV
 http://example.com/stream/zeetv
 
@@ -119,6 +146,16 @@ http://example.com/stream/zeebangla
 
 #EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg", Zee Bangla Cinema
 http://example.com/stream/zeebanglacinema
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -153,6 +190,18 @@ http://example.com/stream/duronto
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png", Discovery Channel
 http://example.com/stream/discovery
 
@@ -167,6 +216,16 @@ http://example.com/stream/animalplanet
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png", Travel XP
 http://example.com/stream/travelxp
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -209,6 +268,16 @@ http://example.com/stream/tsports
 
 
 
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", ESPN
 http://example.com/stream/espn
 
@@ -238,8 +307,50 @@ http://example.com/stream/foxsports
 
 
 
+
+
+1
+
+
+
+
+
+
 #EXTINF:-1 group-title="COLORS CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/800px-Colors_TV_logo.svg.png", COLORS HD
-http://example.com/stream/247_channel1
+#EXT-X-STREAM-INF:BANDWIDTH=212000,AVERAGE-BANDWIDTH=193000,CODECS="mp4a.40.2,avc1.42E00D",RESOLUTION=416x234,FRAME-RATE=25,AUDIO="audio-aacl-33",CLOSED-CAPTIONS=NONE
+strmm.php?cid=144&id=Colors_HD_MOB-audio_33636_hin=33600-video=148000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=467000,AVERAGE-BANDWIDTH=424000,CODECS="mp4a.40.2,avc1.42E015",RESOLUTION=512x288,FRAME-RATE=25,AUDIO="audio-aacl-98",CLOSED-CAPTIONS=NONE
+strmm.php?cid=144&id=Colors_HD_MOB-audio_98835_hin=98800-video=301200.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=884000,AVERAGE-BANDWIDTH=804000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=864x486,FRAME-RATE=25,AUDIO="audio-aacl-98",CLOSED-CAPTIONS=NONE
+strmm.php?cid=144&id=Colors_HD_MOB-audio_98835_hin=98800-video=658800.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1599000,AVERAGE-BANDWIDTH=1454000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=1280x720,FRAME-RATE=25,AUDIO="audio-aacl-98",CLOSED-CAPTIONS=NONE
+strmm.php?cid=144&id=Colors_HD_MOB-audio_98835_hin=98800-video=1272000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2790000,AVERAGE-BANDWIDTH=2536000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=1280x720,FRAME-RATE=25,AUDIO="audio-aacl-98",CLOSED-CAPTIONS=NONE
+strmm.php?cid=144&id=Colors_HD_MOB-audio_98835_hin=98800-video=2293600.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel2
