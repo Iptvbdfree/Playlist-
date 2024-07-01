@@ -317,8 +317,7 @@ http://example.com/stream/foxsports
 
 
 #EXTINF:-1 group-title="COLORS CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/800px-Colors_TV_logo.svg.png", COLORS HD
-#EXT-X-STREAM-INF:BANDWIDTH=212000,AVERAGE-BANDWIDTH=193000,CODECS="mp4a.40.2,avc1.42E00D",RESOLUTION=416x234,FRAME-RATE=25,AUDIO="audio-aacl-33",CLOSED-CAPTIONS=NONE
-strmm.php?cid=144&id=Colors_HD_MOB-audio_33636_hin=33600-video=148000.m3u8
+http://reg-instrumentation-jordan-literally.trycloudflare.com/app/live.php?id=144&e=.m3u
 
 
 
