@@ -238,7 +238,7 @@ http://example.com/stream/foxsports
 
 
 
-#EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
+#EXTINF:-1 group-title="COLORS CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", COLORS HD 
 http://example.com/stream/247_channel1
 
 #EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
