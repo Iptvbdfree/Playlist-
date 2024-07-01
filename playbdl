@@ -172,13 +172,13 @@ http://example.com/stream/travelxp
 
 
 
-#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Star Sports 1
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-sports-1-in.png", Star Sports 1
 http://example.com/stream/starsports1
 
-#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Star Sports 2
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest?cb=20150719162835", Star Sports 2
 http://example.com/stream/starsports2
 
-#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Star Sports Hindi
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20240313194838", Star Sports Hindi
 http://example.com/stream/starsportshindi
 
 #EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Sony Ten 1
@@ -187,7 +187,7 @@ http://example.com/stream/sonyten1
 #EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Sony Six
 http://example.com/stream/sonysix
 
-#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Willow TV
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG", Willow cricket 
 http://example.com/stream/willowtv
 
 #EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", PTV Sports
@@ -196,10 +196,10 @@ http://example.com/stream/ptvsports
 #EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", SuperSport
 http://example.com/stream/supersport
 
-#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Astro Cricket
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://commons.wikimedia.org/wiki/File:PicsartAstro.png", Astro Cricket
 http://example.com/stream/astrocricket
 
-#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", T Sports
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", T Sports
 http://example.com/stream/tsports
 
 
