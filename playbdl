@@ -60,19 +60,19 @@ http://example.com/stream/banglavisiontv
 
 
 
-#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Jalsha Movies
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://logos.fandom.com/wiki/File:Jalsha_Movies_HD.png", Star Jalsha Movies
 http://example.com/stream/starjalshamovies
 
-#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Jalsha
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20240319074532", Star Jalsha
 http://example.com/stream/starjalsha
 
-#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Sports Bangla
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Star_Sports_1_Bangla.png/revision/latest?cb=20240319092654", Star Sports Bangla
 http://example.com/stream/starsportsbangla
 
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Star_plus_%282016%29.png/revision/latest?cb=20190103103526", Star Plus
 http://example.com/stream/starplus
 
-#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Bharat
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Star_Bharat_International.png/revision/latest?cb=20240318193310", Star Bharat
 http://example.com/stream/starbharat
 
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Utsav
@@ -81,13 +81,13 @@ http://example.com/stream/starutsav
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-sports-1-in.png", Star Sports 1
 http://example.com/stream/starsports1
 
-#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Sports 2
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest?cb=20150719162835", Star Sports 2
 http://example.com/stream/starsports2
 
-#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Sports 3
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Starsports3hd.png/revision/latest?cb=20200305070419", Star Sports 3
 http://example.com/stream/starsports3
 
-#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Star Sports Hindi
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20240313194838", Star Sports Hindi
 http://example.com/stream/starsportshindi
 
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/688px-Star_Gold_2020.svg.png", Star Gold
@@ -96,8 +96,7 @@ http://example.com/stream/stargold
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png", Star Movies
 http://example.com/stream/starmovies
 
-#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="logo_url", Asianet (Star Asianet)
-http://example.com/stream/asianet
+
 
 
 
