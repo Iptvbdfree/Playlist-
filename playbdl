@@ -63,7 +63,7 @@ http://example.com/stream/banglavisiontv
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114", Star Jalsha Movies
 http://example.com/stream/starjalshamovies
 
-#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20240319074532", Star Jalsha
+#EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20240319074532", Star Jalsha HD
 http://xtv.ooo:8080/26nest26/445566/245898
 http://xtv.ooo:8080/26nest26/445566/245898
 
