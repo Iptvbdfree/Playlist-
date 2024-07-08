@@ -390,7 +390,7 @@ http://example.com/stream/247_channel15
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist-/main/9x_music.png", 9XM.
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist-/main/9x_music.png", 9XM
 http://example.com/stream/9xm
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", B4U Music
