@@ -4,9 +4,6 @@ http://xtv.ooo:8080/26nest26/445566/245925
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/IPTVBDFREE/MAIN/ntv_bd_europe.png", NTV
 http://example.com/stream/ntv
-
-
-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist/main/channel-i-bd%20(1).png", Channel i
 http://example.com/stream/channeli
 
@@ -54,25 +51,7 @@ http://example.com/stream/gtv
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Banglavision TV
 http://example.com/stream/banglavisiontv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+______________________GRUOP__€________________________₩
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114", Star Jalsha Movies
 http://example.com/stream/starjalshamovies
 
@@ -109,29 +88,7 @@ http://example.com/stream/stargold
 
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png", Star Movies
 http://example.com/stream/starmovies
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+______________________GRUOP__€________________________₩
 #EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Zee_TV_Logo_2017.svg/800px-Zee_TV_Logo_2017.svg.png", Zee TV
 http://reg-instrumentation-jordan-literally.trycloudflare.com/app/live.php?id=167&e=.m3u
 
@@ -146,25 +103,7 @@ http://reg-instrumentation-jordan-literally.trycloudflare.com/app/live.php?id=19
 
 #EXTINF:-1 group-title="ZEE CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg", Zee Bangla Cinema
 http://reg-instrumentation-jordan-literally.trycloudflare.com/app/live.php?id=685&e=.m3u
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+______________________GRUOP__€________________________₩
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://example.com/stream/cartoonnetwork
 
@@ -182,26 +121,7 @@ http://example.com/stream/pogo
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png", Duronto TV
 http://example.com/stream/duronto
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+______________________GRUOP__€________________________₩
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://i.ibb.co/Wzj5RWV/discovery-channel-east-us.png", Discovery Channel
 http://example.com/stream/discovery
 
@@ -216,22 +136,7 @@ http://example.com/stream/animalplanet
 
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png", Travel XP
 http://example.com/stream/travelxp
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+______________________GRUOP__€________________________₩
 #EXTINF:-1 group-title="CRICKET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-sports-1-in.png", Star Sports 1
 http://example.com/stream/starsports1
 
@@ -261,23 +166,7 @@ http://example.com/stream/astrocricket
 
 #EXTINF:-1 group-title="CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", T Sports
 http://example.com/stream/tsports
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+______________________GRUOP__€________________________₩
 #EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", ESPN
 http://example.com/stream/espn
 
@@ -301,51 +190,14 @@ http://example.com/stream/btsport
 
 #EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", Fox Sports
 http://example.com/stream/foxsports
-
-
-
-
-
-
-
-
-1
-
-
-
-
-
-
+______________________GRUOP__€________________________₩
 #EXTINF:-1 group-title="COLORS CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/800px-Colors_TV_logo.svg.png", COLORS HD
 http://reg-instrumentation-jordan-literally.trycloudflare.com/app/live.php?id=144&e=.m3u
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+______________________GRUOP__€________________________₩
 #EXTINF:-1 group-title="SONY CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sony_SAB.svg/200px-Sony_SAB.svg.png", SONY SAB HD
 http://example.com/stream/247_channel2
-
+______________________GRUOP__€________________________₩
 #EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel3
 
@@ -385,11 +237,7 @@ http://example.com/stream/247_channel14
 #EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/24_7_Media_logo.png", 24/7
 http://example.com/stream/247_channel15
 
-
-
-
-
-
+______________________GRUOP__€________________________₩
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist-/main/9x_music.png", 9XM
 http://example.com/stream/9xm
 
@@ -401,14 +249,7 @@ http://example.com/stream/zing
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/mqfFmNr/Video-Capture-20240708-194805.jpg", 24/7 Careless Whisper 
 
-
-
-__________________________________________
-
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Bollywood Channel
-http://example.com/stream/bollywood
-
+______________________GRUOP__€________________________₩
 #EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Zee Cinema
 http://example.com/stream/zeecinema
 
@@ -433,33 +274,7 @@ http://example.com/stream/starmovies
 #EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Sony PIX
 http://example.com/stream/sonypix
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", TNT
-http://example.com/stream/tnt
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", FX
-http://example.com/stream/fx
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Paramount Channel
-http://example.com/stream/paramount
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Universal Channel
-http://example.com/stream/universal
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Film4
-http://example.com/stream/film4
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", TCM (Turner Classic Movies)
-http://example.com/stream/tcm
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", FOX Movies
-http://example.com/stream/foxmovies
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Warner TV
-http://example.com/stream/warnertv
-
-
-
-
+______________________GRUOP__€________________________₩
 
 #EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 1
 http://example.com/stream/247movies1
