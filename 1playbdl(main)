@@ -262,7 +262,7 @@ __________________________________________________________
 #EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Colors Cineplex
 http://example.com/stream/colorscineplex
 __________________________________________________________
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ibb.co/mX1ydD2", HBO
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/8dTxGKf/images-1.png", HBO
 http://example.com/stream/hbo
 __________________________________________________________
 #EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Cinemax
