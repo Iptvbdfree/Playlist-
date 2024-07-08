@@ -28,29 +28,23 @@ __________________________________________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC News
 http://xtv.ooo:8080/26nest26/445566/245914
 __________________________________________________________
-#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Desh TV
-http://example.com/stream/deshtv
+
 __________________________________________________________
-#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Bangla Vision
-http://example.com/stream/banglavision
+
 __________________________________________________________
-#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Maasranga TV
-http://example.com/stream/maasrangatv
+
 __________________________________________________________
-#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", My TV
-http://example.com/stream/mytv
+
 __________________________________________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/rw6HSKt/boishakhi.png", Boishakhi TV
 http://example.com/stream/boishakhitv
 __________________________________________________________
-#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Mohona TV
-http://example.com/stream/mohonatv
+
 __________________________________________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi TV (GTV)
 http://example.com/stream/gtv
 __________________________________________________________
-#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Banglavision TV
-http://example.com/stream/banglavisiontv
+
 __________________________________________________________
 ______________________GRUOP__€________________________₩
 #EXTINF:-1 group-title="STAR CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114", Star Jalsha Movies
