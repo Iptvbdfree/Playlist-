@@ -124,8 +124,8 @@ __________________________________________________________
 
 __________________________________________________________
 _________________GRUOP__€___infortainment____________₩
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://i.ibb.co/Wzj5RWV/discovery-channel-east-us.png", Discovery Channel
-http://example.com/stream/discovery
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://i.ibb.co/Wzj5RWV/discovery-channel-east-us.png", DISCOVERY HD
+http://xtv.ooo:8080/live/Opplexasdff/2272200/245966.ts
 __________________________________________________________
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/320px-Natgeologo.svg.png", National Geographic
 http://example.com/stream/natgeo
