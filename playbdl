@@ -13,7 +13,7 @@ http://example.com/stream/channeli
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF", ATN News
 http://xtv.ooo:8080/26nest26/445566/245905
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Channel 24
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist/main/channel24_bd.png", Channel 24
 http://example.com/stream/channel24
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Ekattor TV
