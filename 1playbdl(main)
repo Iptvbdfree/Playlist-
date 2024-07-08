@@ -247,13 +247,13 @@ __________________________________________________________
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/mqfFmNr/Video-Capture-20240708-194805.jpg", 24/7 Careless Whisper 
 __________________________________________________________
 _____________________GRUOP__€__movies_______________₩
-#EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Zee Cinema
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/SX7fmTZ/zee-cinema-in-1.png", Zee Cinema
 http://example.com/stream/zeecinema
 __________________________________________________________
-#EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Star Gold
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/4Vz4VjZ/star-gold-in.png", Star Gold
 http://example.com/stream/stargold
 __________________________________________________________
-#EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Sony Max
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/KmWFbk7/sony-max-in.png", Sony Max
 http://example.com/stream/sonymax
 __________________________________________________________
 #EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Colors Cineplex
@@ -265,7 +265,7 @@ __________________________________________________________
 #EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Cinemax
 http://example.com/stream/cinemax
 __________________________________________________________
-#EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Star Movies
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/TYr8TDq/star-movies-hd-india-hk-in.png", Star Movies
 http://example.com/stream/starmovies
 __________________________________________________________
 #EXTINF:-1 group-title="MOVIES" tvg-logo="logo_url", Sony PIX
