@@ -166,28 +166,28 @@ __________________________________________________________
 http://example.com/stream/tsports
 __________________________________________________________
 ___________________GRUOP__€__football_________________₩
-#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", ESPN
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/7ywHMZ6/images.png", ESPN
 http://example.com/stream/espn
 __________________________________________________________
-#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", Star Sports Football
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/khhwW2F/images-5.png", Star Sports Football
 http://example.com/stream/starsportsfootball
 __________________________________________________________
-#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", Sony Ten 2
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/Th4rVz9/Sony-Sports-Network.png", Sony Ten 2
 http://example.com/stream/sonyten2
 __________________________________________________________
-#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", Sony Six
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/Th4rVz9/Sony-Sports-Network.png", Sony Six
 http://example.com/stream/sonysix
 __________________________________________________________
-#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", Sky Sports Football
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/qJBMB1r/images-1.jpg", Sky Sports Football
 http://example.com/stream/skysportsfootball
 __________________________________________________________
-#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", BeIN Sports
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/khhwW2F/images-5.png", BeIN Sports
 http://example.com/stream/beinsports
 __________________________________________________________
-#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", BT Sport
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/ChVv3s5/images-4.png", BT Sport
 http://example.com/stream/btsport
 __________________________________________________________
-#EXTINF:-1 group-title="FOOTBALL" tvg-logo="logo_url", Fox Sports
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/qJBMB1r/images-1.jpg", Fox Sports
 http://example.com/stream/foxsports
 __________________________________________________________
 ______________________GRUOP__€______colors___________₩
