@@ -166,7 +166,7 @@ __________________________________________________________
 http://example.com/stream/tsports
 __________________________________________________________
 ___________________GRUOP__€__football_________________₩
-#EXTINF:-1 group-title="FOOTBALL" tvg-logo="", ESPN
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/4JD1ZYr/images-2.png", ESPN
 http://example.com/stream/espn
 __________________________________________________________
 #EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/qJBMB1r/images-1.jpg", Star Sports Football
@@ -178,7 +178,7 @@ __________________________________________________________
 #EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/Th4rVz9/Sony-Sports-Network.png", Sony Six
 http://example.com/stream/sonysix
 __________________________________________________________
-#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/qJBMB1r/images-1.jpg", Sky Sports Football
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/Yjff0Cm/images-3.png", Sky Sports Football
 http://example.com/stream/skysportsfootball
 __________________________________________________________
 #EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/khhwW2F/images-5.png", BeIN Sports
@@ -187,7 +187,7 @@ __________________________________________________________
 #EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/ChVv3s5/images-4.png", BT Sport
 http://example.com/stream/btsport
 __________________________________________________________
-#EXTINF:-1 group-title="FOOTBALL" tvg-logo="", Fox Sports
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="https://i.ibb.co/LYnRfPY/images.jpg", Fox Sports
 http://example.com/stream/foxsports
 __________________________________________________________
 ______________________GRUOP__€______colors___________₩
