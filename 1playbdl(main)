@@ -3,28 +3,28 @@
 http://185.6.12.60/c444a5102ce9065dc37c3f36a80c434ffeebd318549ff4e2aa833ce6ed89999a1807929995c22cb961c9f3f94fd44221fce879945c394e44fd79f5ee2fcc1baf98c7960e912c4e12251090ec42bc7ab4efacf3/index.m3u8
 _________________________news____________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/IPTVBDFREE/MAIN/ntv_bd_europe.png", NTV
-http://example.com/stream/ntv
+http://xtv.ooo:8080/26nest26/445566/245924
 __________________________________________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist/main/channel-i-bd%20(1).png", Channel i
-http://example.com/stream/channeli
+http://xtv.ooo:8080/26nest26/445566/245913
 __________________________________________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF", ATN News
 http://xtv.ooo:8080/26nest26/445566/245905
 __________________________________________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist/main/channel24_bd.png", Channel 24
-http://example.com/stream/channel24
+http://xtv.ooo:8080/26nest26/445566/245969
 __________________________________________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist-/main/ekattor_tv.png", Ekattor TV1
-http://example.com/stream/ekattortv
+http://xtv.ooo:8080/26nest26/445566/245915
 __________________________________________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist/main/independent_tv.png", Independent TV
-http://example.com/stream/independenttv
+http://xtv.ooo:8080/26nest26/445566/245916
 __________________________________________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist-/main/jamuna_tv_bd.png", Jamuna TV1
-http://example.com/stream/jamunatv
+http://xtv.ooo:8080/26nest26/445566/245917
 __________________________________________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/9yDg42N/IMG-20240615-163811.jpg", News24
-http://example.com/stream/news24
+http://xtv.ooo:8080/26nest26/445566/245903
 __________________________________________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC News
 http://xtv.ooo:8080/26nest26/445566/245914
@@ -38,12 +38,12 @@ __________________________________________________________
 
 __________________________________________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/rw6HSKt/boishakhi.png", Boishakhi TV
-http://example.com/stream/boishakhitv
+http://xtv.ooo:8080/26nest26/445566/245923
 __________________________________________________________
 
 __________________________________________________________
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi TV (GTV)
-http://example.com/stream/gtv
+http://xtv.ooo:8080/26nest26/445566/245901
 __________________________________________________________
 
 __________________________________________________________
