@@ -16,7 +16,7 @@ http://xtv.ooo:8080/26nest26/445566/245905
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist/main/channel24_bd.png", Channel 24
 http://example.com/stream/channel24
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist/blob/main/ekattor_tv.png", Ekattor TV
+#EXTINF:-1 group-title="NEWS" tvg-logo="", Ekattor TV
 http://example.com/stream/ekattortv
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist/main/independent_tv.png", Independent TV
