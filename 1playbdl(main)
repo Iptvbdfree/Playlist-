@@ -393,10 +393,10 @@ http://example.com/stream/247_channel15
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Iptvbdfree/Playlist-/main/9x_music.png", 9XM
 http://example.com/stream/9xm
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", B4U Music
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/MPGmYy4/b4u-music-in.png", B4U Music
 http://example.com/stream/b4umusic
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", Zing
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/jGNvpxw/zee-zing-uk.png", Zing
 http://example.com/stream/zing
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", Sony Mix
@@ -411,7 +411,7 @@ http://example.com/stream/channelv
 #EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", 1 Music Channel
 http://example.com/stream/1musicchannel
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="logo_url", 24/7 Careless Whisper
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/mqfFmNr/Video-Capture-20240708-194805.jpg", 24/7 Careless Whisper
 http://example.com/stream/carelesswhisper
 
 
