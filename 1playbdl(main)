@@ -43,7 +43,7 @@ http://example.com/stream/maasrangatv
 #EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", My TV
 http://example.com/stream/mytv
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Boishakhi TV
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/rw6HSKt/boishakhi.png", Boishakhi TV
 http://example.com/stream/boishakhitv
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="logo_url", Mohona TV
