@@ -277,64 +277,64 @@ http://example.com/stream/sonypix
 __________________________________________________________
 ______________________GRUOP__€________________________₩
 
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 1
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 1
 http://example.com/stream/247movies1
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 2
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 2
 http://example.com/stream/247movies2
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 3
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 3
 http://example.com/stream/247movies3
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 4
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 4
 http://example.com/stream/247movies4
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 5
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 5
 http://example.com/stream/247movies5
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 6
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 6
 http://example.com/stream/247movies6
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 7
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 7
 http://example.com/stream/247movies7
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 8
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 8
 http://example.com/stream/247movies8
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 9
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 9
 http://example.com/stream/247movies9
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 10
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 10
 http://example.com/stream/247movies10
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 11
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 11
 http://example.com/stream/247movies11
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 12
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 12
 http://example.com/stream/247movies12
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 13
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 13
 http://example.com/stream/247movies13
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 14
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 14
 http://example.com/stream/247movies14
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 15
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 15
 http://example.com/stream/247movies15
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 16
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 16
 http://example.com/stream/247movies16
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 17
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 17
 http://example.com/stream/247movies17
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 18
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 18
 http://example.com/stream/247movies18
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 19
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 19
 http://example.com/stream/247movies19
 __________________________________________________________
-#EXTINF:-1 group-title="24/7 Movies" tvg-logo="logo_url", 24/7 Movies 20
+#EXTINF:-1 group-title="24/7 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Movies24logo.png", 24/7 Movies 20
 http://example.com/stream/247movies20
 __________________________________________________________
 
