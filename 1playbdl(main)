@@ -145,22 +145,18 @@ __________________________________________________________
 #EXTINF:-1 group-title="CRICKET" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20240313194838", Star Sports Hindi
 http://example.com/stream/starsportshindi
 __________________________________________________________
-#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Sony Ten 1
-http://example.com/stream/sonyten1
+
 __________________________________________________________
-#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", Sony Six
-http://example.com/stream/sonysix
+
 __________________________________________________________
-#EXTINF:-1 group-title="CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG", Willow cricket 
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://i.ibb.co/PWWHrB0/willow-us.png", Willow cricket 
 http://example.com/stream/willowtv
 __________________________________________________________
-#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", PTV Sports
-http://example.com/stream/ptvsports
+
 __________________________________________________________
-#EXTINF:-1 group-title="CRICKET" tvg-logo="logo_url", SuperSport
-http://example.com/stream/supersport
+
 __________________________________________________________
-#EXTINF:-1 group-title="CRICKET" tvg-logo="https://commons.wikimedia.org/wiki/File:PicsartAstro.png", Astro Cricket
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://i.ibb.co/Hz6MYg4/astro-cricket-my.png", Astro Cricket
 http://example.com/stream/astrocricket
 __________________________________________________________
 #EXTINF:-1 group-title="CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", T Sports
