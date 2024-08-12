@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:-1,tvg-logo="https://i.ibb.co/q0349M8/somoy-news.png",SOMOY TV,
+#EXTINF:-1,SOMOY TV,tvg-logo="https://i.ibb.co/q0349M8/somoy-news.png"
 http://xtv.ooo:8080/Opplexasdff/2272200/245925
 
-#EXTINF:-1, Channel Name
-#EXTIMG:http:https://i.ibb.co/q0349M8/somoy-news.png
+#EXTINF:-1, Somoy tv 
+"http:https://i.ibb.co/q0349M8/somoy-news.png"
 http://xtv.ooo:8080/Opplexasdff/2272200/245925
